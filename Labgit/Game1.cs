@@ -42,7 +42,7 @@ namespace Labgit
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.Black);
+            GraphicsDevice.Clear(Color.Gold);
 
             // TODO: Add your drawing code here
 
