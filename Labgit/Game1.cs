@@ -9,6 +9,7 @@ namespace Labgit
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         private ColorWriteChannels _colorWriteChannels;
+        private SpriteBatch _spriteBatch2;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
